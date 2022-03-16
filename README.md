@@ -1,7 +1,7 @@
 ### Eu sou o Dihêgo Pires 👋
 
 - 🔭 Hoje trabalho com Front-end
-- 🌱 Estudando Ruby on Rails 
+- 🌱 Estudando Desenvolvimento WEB 
 - 📫 Contate-me no e-mail: dihegopires@gmail.com
 <div align="center">
   <a href="https://github.com/dihegomartins">
