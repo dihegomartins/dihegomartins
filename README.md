@@ -1,6 +1,6 @@
 ### Eu sou o Dihêgo Pires 👋
 
-Software Engineering | .Net | C# | ASP NET | JavaScript | GitHub | SQL Server
+Desenvolvedor Front-end | .Net | C# | ASP NET | JavaScript | GitHub | SQL Server
 - 📫 Contate-me no e-mail: dihegopires@gmail.com
 <div align="center">
   <a href="https://github.com/dihegomartins">
