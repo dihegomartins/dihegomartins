@@ -7,7 +7,7 @@ Sou um entusiasta de tecnologia focado em resolver problemas lógicos e criar in
 
 ### 🚀 No que estou trabalhando?
 - **[logica-js-beecrowd](https://github.com/dihegomartins/logica-js-beecrowd)**: Um simulador de Judge Online para testar resoluções de problemas do Beecrowd com JavaScript moderno.
-- **Reserva de Cinema**: Sistema de interface para gestão de assentos e ingressos.
+- **[reserva-cinema](https://github.com/dihegomartins/reserva-cinema)**: Sistema de interface para gestão de assentos e ingressos.
 
 ### 🛠️ Minhas Ferramentas & Tecnologias
 <p align="left">
