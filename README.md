@@ -44,12 +44,14 @@ Sou um entusiasta de tecnologia focado em resolver problemas lógicos e criar si
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
 ### 📫 Vamos nos conectar?
-- **LinkedIn**: [linkedin.com/in/dihegopires/](https://www.linkedin.com/in/dihegopires/)
-- **Email**: [dihegopires@gmail.com](mailto:dihegopires@gmail.com)
+
+* **LinkedIn:** [linkedin.com/in/dihegopires/](https://www.linkedin.com/in/dihegopires/)
+* **Email:** [dihegopires@gmail.com](mailto:dihegopires@gmail.com)
 
 ---
 
-### 📊 GitHub Stats
-![Estatísticas de Dihego](https://github-readme-stats.vercel.app/api?username=dihegomartins&show_icons=true&theme=radical)
+### 📊 GitHub Profile Overview
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dihegomartins&theme=radical" alt="GitHub Profile Summary" />
+</p>
